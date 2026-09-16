@@ -1,0 +1,13 @@
+{
+  "status": "PENDING_EXTERNAL_RUN",
+  "model": "GPT-5.6-sol (medium reasoning)",
+  "pass_type": "single-pass",
+  "prompt_source": "task/instruction.md",
+  "build_status": null,
+  "verifier_score": null,
+  "difficulty_target": "< 0.30",
+  "summary": "Pending external evaluation run. Execute external model using prompt template in README.md and run test_runner.js against output.",
+  "raw_model_output": null,
+  "failed_checks": [],
+  "results": []
+}
